@@ -64,9 +64,15 @@ business plans, user documentation, and architectural systems research.
   
   **[Cheese](https://github.com/0O7/Mountainbike_basics_Q1)** - A blogging space.                                                                    Angular, RESTful API's, PostgreSQL, JQuery, Node & Express, Bcrypt, EJS, News API     May 2017
   
-  **[Music-Nerd-Trivia](https://github.com/0O7/Alexa-Skill-Music-Nerd-Trivia)** - Led a team of 4 in developing an Amazon-Alexa Music trivia game.   Node.js, Bespoken tools, FFmpeg, Amazon AWS S3 & Lambda, Alexa skills kit, DynamoDB   August 2017
+## Awards 
+Winner of 2018 SXSW Hackathon - Facebook API award - devpost.com/software/sx-setfinder		          March 2018
 
 ## Relevant Experience
+
+**MicroMain			                   Austin, TX**
+
+Web application developer internship						 	   March 2018 –- present
+- Using front-end technologies and SQL to extend a low code/No-code platform in building web and mobile applications.
 
 **Yang Ming America Corp. Sugar Land, TX**
 
